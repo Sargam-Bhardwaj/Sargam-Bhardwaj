@@ -84,15 +84,7 @@ Modern responsive landing page designed for real estate lead generation.
 </p>
 
 
-# 🐍 CONTRIBUTION
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 💼 HIRE ME
+# 💼 Connect 
 
 <p align="center">
 I am currently open to opportunities in Full Stack Development, React Engineering, and AI-based projects.
